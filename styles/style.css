@@ -213,6 +213,7 @@ body {
     text-transform: uppercase;
     color: var(--text-primary);
     margin-bottom: 27px;
+    margin-left: 40px;
 }
 
 .lots__list {
